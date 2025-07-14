@@ -30,27 +30,9 @@ To try it locally, follow the steps below.
 ### 🔧 Prerequisites
 
 - Python 3.9 or above
-- `pip` or a virtual environment like `venv` or `conda`
+- `pip` or a virtual environment like
+- `venv` or `conda`
 
-### 📦 Setup Steps
-
-```bash
-# Clone the repo
-git clone https://github.com/Uzma-Jawed/read-n-quote-app.git
-cd personal_reading_journal
-
-# Create a virtual environment (optional but recommended)
-python -m venv env
-source env/bin/activate     # On Linux/macOS
-env\Scripts\activate        # On Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
-
-📁 Folder Structure
 
 read-n-quote-app/
 │
@@ -78,9 +60,26 @@ read-n-quote-app/
 ✍️ Creator
 Uzma Jawed
 Python Developer | AI & Data Science Student
-🌐 LinkedIn:https://www.linkedin.com/in/uzma-jawed-21684728b | 💻 GitHub: https://github.com/Uzma-Jawed
+🌐LinkedIn:🔗https://www.linkedin.com/in/uzma-jawed-21684728b | 💻 GitHub:🔗https://github.com/Uzma-Jawed
 
 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License
+___
 
+### 📦 Setup Steps
 
+```bash
+# Clone the repo
+git clone https://github.com/Uzma-Jawed/read-n-quote-app.git
+cd personal_reading_journal
+
+# Create a virtual environment (optional but recommended)
+python -m venv env
+source env/bin/activate     # On Linux/macOS
+env\Scripts\activate        # On Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
