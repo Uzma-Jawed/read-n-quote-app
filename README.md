@@ -25,30 +25,36 @@ To try it locally, follow the steps below.
 
 ---
 
-### 🛠️ Installation & Usage
-
-### 🔧 Prerequisites
-
-- Python 3.9 or above
-- `pip` or a virtual environment like
-- `venv` or `conda`
-
+### 📁 Structure
 
 read-n-quote-app/
+
 │
+
 ├── app.py                # Main Streamlit app
+
 ├── requirements.txt      # Python dependencies
+
 ├── banner.png            # Header image
+
 ├── profilepic.png        # Sidebar profile image
+
 ├── .gitignore            # Files/folders to ignore
+
 ├── data/                 # Local storage for user entries
+
 │   ├── books.json
+
 │   ├── quotes.json
+
 │   └── users.json
 
 ⚠️ The data/ folder is ignored in .gitignore to protect personal entries.
 
+___
+
 💡 Future Improvements
+
 🌐 Online deployment with user demo mode
 
 🗝️ Password hashing for added security
@@ -56,15 +62,28 @@ read-n-quote-app/
 📁 Export quotes and books to PDF or CSV
 
 🎨 Dark mode and theming options
+___
+✍️ Creator: Uzma Jawed
 
-✍️ Creator
-Uzma Jawed
 Python Developer | AI & Data Science Student
-🌐LinkedIn:🔗https://www.linkedin.com/in/uzma-jawed-21684728b | 💻 GitHub:🔗https://github.com/Uzma-Jawed
+
+🌐LinkedIn:🔗https://www.linkedin.com/in/uzma-jawed-21684728b 
+
+| 💻 GitHub:🔗https://github.com/Uzma-Jawed
+
+___
 
 📜 License
 This project is open-source and available under the MIT License
 ___
+
+### 🛠️ Installation & Usage
+
+### 🔧 Prerequisites
+
+- Python 3.9 or above
+- `pip` or a virtual environment like
+- `venv` or `conda`
 
 ### 📦 Setup Steps
 
