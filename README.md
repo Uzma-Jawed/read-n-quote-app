@@ -78,7 +78,7 @@ read-n-quote-app/
 ✍️ Creator
 Uzma Jawed
 Python Developer | AI & Data Science Student
-🌐 LinkedIn | 💻 GitHub
+🌐 LinkedIn:https://www.linkedin.com/in/uzma-jawed-21684728b | 💻 GitHub
 
 📜 License
 This project is open-source and available under the MIT License.
