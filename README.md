@@ -18,13 +18,6 @@ Log books, collect your favorite quotes, and analyze your reading habits, all in
 
 ---
 
-### Demo
-
-> 🔒 Not deployed online yet.  
-To try it locally, follow the steps below.
-
----
-
 ### 📁 Structure
 
 read-n-quote-app/
@@ -76,6 +69,13 @@ ___
 📜 License
 This project is open-source and available under the MIT License
 ___
+
+### Demo
+
+> 🔒 Not deployed online yet.  
+To try it locally, follow the steps below.
+
+---
 
 ### 🛠️ Installation & Usage
 
