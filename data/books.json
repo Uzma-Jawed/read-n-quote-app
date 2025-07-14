@@ -1,0 +1,53 @@
+{
+    "Uzma": {
+        "books": {
+            "9ca02b42-6b8a-4a14-8f6a-89185abd6c53": {
+                "title": "The Calculating Stars",
+                "author": "Mary Robinette Kowal",
+                "year": "2018",
+                "genres": [
+                    "space race",
+                    "science fiction",
+                    "alternate history"
+                ],
+                "status": "Want to Read",
+                "rating": 3,
+                "notes": "",
+                "entry_date": "2025-07-14 23:41:14",
+                "last_updated": "2025-07-14 23:41:14"
+            },
+            "89081720-be80-4e24-a743-a730b583f1f2": {
+                "title": "Klara and the Sun",
+                "author": "Kazuo Ishiguro",
+                "year": "2021",
+                "genres": [
+                    "dystopian",
+                    "science fiction",
+                    "ai"
+                ],
+                "status": "Want to Read",
+                "rating": 3,
+                "notes": "",
+                "entry_date": "2025-07-15 00:16:49",
+                "last_updated": "2025-07-15 00:16:49"
+            },
+            "912e0742-e888-4ac6-8a34-5d5460a327ea": {
+                "title": "The Little Prince",
+                "author": "Antonie de Saint",
+                "year": "1943",
+                "genres": [
+                    "philosophy",
+                    "existentionalism",
+                    "adventure",
+                    "children's literature",
+                    "fable"
+                ],
+                "status": "Completed",
+                "rating": 4,
+                "notes": "",
+                "entry_date": "2025-07-15 00:27:59",
+                "last_updated": "2025-07-15 00:27:59"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Uzma": {
+        "quotes": {
+            "b39886c4-c839-4214-8a51-0e78ad00b8f8": {
+                "text": "The universe doesn't care about your plans,  but it responds to your actions.",
+                "book_title": "The Calculating Stars",
+                "book_id": "9ca02b42-6b8a-4a14-8f6a-89185abd6c53",
+                "page_number": "1",
+                "tags": [],
+                "entry_date": "2025-07-14 23:42:42"
+            },
+            "ada922e6-8c9d-4b69-ac42-644f6cd7a536": {
+                "text": "\"People often felt the need to prepare a side of themselves to display to passersby, as they might in a store window.\"",
+                "book_title": "Klara and the Sun",
+                "book_id": "89081720-be80-4e24-a743-a730b583f1f2",
+                "page_number": "2",
+                "tags": [],
+                "entry_date": "2025-07-15 00:18:00"
+            },
+            "3a58074e-d394-49ab-9b6a-446f59292e7e": {
+                "text": "\"You become responsible, forever, for what you have tamed.\"",
+                "book_title": "The Little Prince",
+                "book_id": "912e0742-e888-4ac6-8a34-5d5460a327ea",
+                "page_number": "3",
+                "tags": [],
+                "entry_date": "2025-07-15 00:30:24"
+            }
+        }
+    }
+}
