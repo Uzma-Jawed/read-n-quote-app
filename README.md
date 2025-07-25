@@ -70,6 +70,8 @@ ___
 This project is open-source and available under the MIT License
 ___
 
+🎦 https://youtu.be/G6HHOPhxQFE?si=jakA7FKG5tDGf9ns
+
 ### Demo
 
 > 🔒 Not deployed online yet.  
